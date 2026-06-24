@@ -1,5 +1,0 @@
-# Git Assignment
-
-This content was added from branch1
-
-Git Assignment - Branch2 and Main Version
